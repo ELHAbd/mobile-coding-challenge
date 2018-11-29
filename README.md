@@ -1,4 +1,4 @@
-# mobile-coding-challenge
+# Mobile-coding-challenge
 
 This is a simple app that list the most starred Github repository that were created in the last 30 days.
 
