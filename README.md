@@ -37,9 +37,9 @@ This is a simple app that list the most starred Github repository that were crea
 
 **Build configuration**
 
-Android studio 3.1.2
-Gradle version 3.1.2
-Android SDK 27
+-Android studio 3.1.2
+-Gradle version 3.1.2
+-Android SDK 27
 
  
  
