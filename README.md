@@ -14,13 +14,13 @@ This is a simple app that list the most starred Github repository that were crea
 
 ## Used technology
 
- -Android/JAVA
+ - Android/JAVA
  
 ##Getting started
  
  **Clone the repository**
  
- `[https://github.com/ELHAbd/mobile-coding-challenge.git]` (https://github.com/ELHAbd/mobile-coding-challenge.git)
+ `[https://github.com/ELHAbd/mobile-coding-challenge.git]` ( https://github.com/ELHAbd/mobile-coding-challenge.git )
  
  
  **Running the app**
@@ -29,9 +29,9 @@ This is a simple app that list the most starred Github repository that were crea
  
  **Libraries**
  
-  -To access the remote API we used [Retrofit2](https://square.github.io/retrofit/), the choice for Retrofit is because 
+  - To access the remote API we used [Retrofit2]( https://square.github.io/retrofit/ ), the choice for Retrofit is because 
   it's allow  to easily connect app to web-services by translating the REST API into Java. 
-  -In order to build a robust and maintainable application we used MVP(Model-View-Presenter) as software architecture. mvp allow to
+  - In order to build a robust and maintainable application we used MVP(Model-View-Presenter) as software architecture. mvp allow to
   separate UI business logic for the View.
  
 
