@@ -16,7 +16,7 @@ This is a simple app that list the most starred Github repository that were crea
 
  - Android/JAVA
  
-##Getting started
+## Getting started ##
  
  **Clone the repository**
  
